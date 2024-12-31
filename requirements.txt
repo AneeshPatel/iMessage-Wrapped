@@ -4,6 +4,7 @@ nltk==3.9.1
 numpy==2.2.1
 pandas==2.2.3
 plotly==5.24.1
+pytypedstream==0.1.0
 pytz==2024.2
 scikit_learn==1.6.0
 seaborn==0.13.2
